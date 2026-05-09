@@ -20,7 +20,7 @@ export default function Hero({ setActiveSection }: HeroProps) {
       <div className="relative z-10 text-center max-w-4xl mx-auto">
         <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary-300 via-primary-400 to-primary-500">
-            Swamalatha Chakradhar
+            Swamy Chakradhar
           </span>
         </h1>
 
